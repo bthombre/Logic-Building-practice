@@ -20,7 +20,7 @@ The main goal of this repository is to improve:
 
 Logic-Building-Practice/
 │
-├── C/
-├── CPP/
-├── Java/
+├── Basic Code/
+├── Problems-on-Digit/
+├── Problems-on-Number/
 └── README.md
